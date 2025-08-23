@@ -1,2 +1,19 @@
+# node modules
+node_modules/
 
-#node_modules
+# build output
+dist/
+# logs
+logs/
+# dependency directories
+jspm_packages/
+# TypeScript cache
+*.tsbuildinfo
+# Optional npm cache directory
+.npm/
+# Optional eslint cache
+.eslintcache
+# Optional REPL history
+.repl_history
+# dotenv environment variables file
+.env
