@@ -69,6 +69,18 @@ Day 11 : Applied Pagination to products through skip and limit in mongo db
          page = 3
          limit = 10
          skip = (page - 1) * limit this is calculation to get desired search and also use query params in api to get the desired results 
+
+Day 12 : Filtering on products (category , price) applied in the app.
+         Filtering means select data on the basis of some conditions.
+         for example ypu can filter on the basis of category , maxPrice and minimum price in products. so you get filter products accroding to your range price.
+
+Day 13 : Sorting on products (price , createdAt) applied in the app.
+         Sorting means Arrange data in specific order ( large to small or small to large)
+         for example you can sort data by descending order like higher price to lower price.
+         Products will be sorted on highest price.
+
+         
+         
        
 
  
